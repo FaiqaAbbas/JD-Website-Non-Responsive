@@ -67,6 +67,7 @@
     line-height: 1.9;
     color: white;
     text-align: center;
+    overflow:auto;
 }
 .strip-content{
     display: flex;
