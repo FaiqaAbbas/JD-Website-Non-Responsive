@@ -42,6 +42,7 @@
     height: 6rem;
     width: 55%;
     background-color: white;
+    overflow:none;
 }
 
 .black-card{
