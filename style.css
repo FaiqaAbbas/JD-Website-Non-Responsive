@@ -42,7 +42,7 @@
     height: 6rem;
     width: 55%;
     background-color: white;
-    overflow:none;
+    overflow:auto;
 }
 
 .black-card{
@@ -66,7 +66,7 @@
     line-height: 1.9;
     color: white;
     text-align: center;
-     overflow:none;
+     overflow:auto;
 }
 .strip-content{
     display: flex;
